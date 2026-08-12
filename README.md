@@ -41,7 +41,7 @@ This project is a Postman/Newman automated test suite for dMoney API, simulating
 
 ## Postman API Documentation Link
   
-  - API Documentation Link:**https://documenter.getpostman.com/view/28551494/2sBY4VJxBr**
+  - API Documentation Link: https://documenter.getpostman.com/view/28551494/2sBY4WpceT
 
 ## Technology Used
 - Postman: If you haven't already, [download and install Postman.](https://www.postman.com/downloads/)
