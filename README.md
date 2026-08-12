@@ -64,12 +64,13 @@ API-Assignment/
 <p align="center"> <b>REPORT SUMMERY</b> </p>
 
 <p align="center">
-  
+  <img width="385" height="542" alt="image" src="https://github.com/user-attachments/assets/d98bd27c-811c-4ebb-8045-ade3a0440659" />
+
 </p>
 
 <p align="center"> <b>TOTAL REQUESTS</b> </p>
 <p align="center">
-  
+  <img width="383" height="575" alt="image" src="https://github.com/user-attachments/assets/a538ac63-964a-4177-a1d1-77c3c818b291" />
 </p>
 
 
